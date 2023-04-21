@@ -1,0 +1,34 @@
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Business.deps.json
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Business.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Business.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Data.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Domain.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Data.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Domain.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.csproj.AssemblyReference.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.AssemblyInfoInputs.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.AssemblyInfo.cs
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.csproj.CoreCompileInputs.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.csproj.CopyComplete
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\refint\MeterReadManager.Business.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\ref\MeterReadManager.Business.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Business.deps.json
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Business.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Business.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Data.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Domain.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Data.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\bin\Debug\net7.0\MeterReadManager.Domain.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.csproj.AssemblyReference.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.AssemblyInfoInputs.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.AssemblyInfo.cs
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.csproj.CoreCompileInputs.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.csproj.CopyComplete
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\refint\MeterReadManager.Business.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\MeterReadManager.Business.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Business\obj\Debug\net7.0\ref\MeterReadManager.Business.dll

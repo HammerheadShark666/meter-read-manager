@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "MeterReadManager.Function2": {
+      "commandName": "Project",
+      "commandLineArgs": "start --port 7074 --verbose"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32455,
+      "useSSL": false
+    }
+  }
+}

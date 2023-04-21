@@ -1,0 +1,38 @@
+D:\Software Development\MeterReadManager\MeterReadManager.Function2\bin\output\MeterReadManager.Data.deps.json
+D:\Software Development\MeterReadManager\MeterReadManager.Function2\bin\output\MeterReadManager.Data.runtimeconfig.json
+D:\Software Development\MeterReadManager\MeterReadManager.Function2\bin\output\MeterReadManager.Data.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Function2\bin\output\MeterReadManager.Data.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.deps.json
+D:\Software Development\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.runtimeconfig.json
+D:\Software Development\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Domain.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Domain.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.csproj.AssemblyReference.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.AssemblyInfoInputs.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.AssemblyInfo.cs
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.csproj.CoreCompileInputs.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.csproj.CopyComplete
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\refint\MeterReadManager.Data.dll
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.pdb
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.genruntimeconfig.cache
+D:\Software Development\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\ref\MeterReadManager.Data.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.deps.json
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.runtimeconfig.json
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Data.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Domain.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\bin\Debug\net7.0\MeterReadManager.Domain.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.csproj.AssemblyReference.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.AssemblyInfoInputs.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.AssemblyInfo.cs
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.csproj.CoreCompileInputs.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.csproj.CopyComplete
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\refint\MeterReadManager.Data.dll
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.pdb
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\MeterReadManager.Data.genruntimeconfig.cache
+D:\Sofware Development 2\MeterReadManager\MeterReadManager.Data\obj\Debug\net7.0\ref\MeterReadManager.Data.dll

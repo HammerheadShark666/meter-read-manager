@@ -1,0 +1,18 @@
+﻿
+
+Security
+
+Duplicates 
+
+
+Unit test
+
+
+
+Docker
+
+	Sql Server
+	Azurite
+
+
+Get docker working
